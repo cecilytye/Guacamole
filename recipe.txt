@@ -4,3 +4,4 @@ hot sauce
 tomatoes
 onions
 salt
+pepper
